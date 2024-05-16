@@ -2,7 +2,8 @@
 
 The pytorch implementation of xLSTM for Intelligent Fault Diagnosis of Rolling Bearings. **This is just an experimental report!** 
 
-#####                                                                           The training speed is particularly slow!
+##                                                                           The training speed is particularly slow!
+## This is just a very basic report!
 
 
 
@@ -82,7 +83,7 @@ author = {Chao He and Hongmei Shi and Jin Si and Jianbo Li}
   |  LSTM   | 56.42%                     |
   |  mLSTM  | 10.04%                     |
   | s_mLSTM | 92.13%                     |
-  |  sLSTM  | 96.65% ($\uparrow 0.39\%$) |
+  |  sLSTM  | 96.65% ($\uparrow 0.39$$\%$) |
 
   
 
