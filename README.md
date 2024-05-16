@@ -2,8 +2,8 @@
 
 The pytorch implementation of xLSTM for Intelligent Fault Diagnosis of Rolling Bearings. **This is just an experimental report!** 
 
-##                                                                           The training speed is particularly slow!
-## This is just a very basic report!
+###                                                                           The training speed is particularly slow!
+### This is just a very basic report!
 
 
 
@@ -12,7 +12,20 @@ The pytorch implementation of xLSTM for Intelligent Fault Diagnosis of Rolling B
 ## Brief introduction  
 Experimental report on using xLSTM for fault diagnosis. Replace the BiLSTM module in DCA-BiGRU with the module in xLSTM.
 
+## Result
 
+- 「data」https://www.alipan.com/s/rSxsqvnPVxY  Code: Sb3E
+
+- Verification set result report
+
+  |  Block  | Performance                |
+  | :-----: | -------------------------- |
+  | BiLSTM  | 96.26%                     |
+  | BisLSTM | 95.15%                     |
+  |  LSTM   | 56.42%                     |
+  |  mLSTM  | 10.04%                     |
+  | s_mLSTM | 92.13%                     |
+  |  sLSTM  | 96.65% ($\uparrow 0.39$ %) |
 
 ## Citation
 
@@ -70,20 +83,7 @@ author = {Chao He and Hongmei Shi and Jin Si and Jianbo Li}
 ```
 
 
-## Result
 
-- 「data」https://www.alipan.com/s/rSxsqvnPVxY  Code: Sb3E
-
-- Verification set result report
-
-  |  Block  | Performance                |
-  | :-----: | -------------------------- |
-  | BiLSTM  | 96.26%                     |
-  | BisLSTM | 95.15%                     |
-  |  LSTM   | 56.42%                     |
-  |  mLSTM  | 10.04%                     |
-  | s_mLSTM | 92.13%                     |
-  |  sLSTM  | 96.65% ($\uparrow 0.39$$\%$) |
 
   
 
