@@ -1,0 +1,394 @@
+epoch: 0, Train Loss: 2.3384, Train Acc: 0.1094, Test Loss: 2.3080, Test Acc: 0.0999
+Validation loss decreased (inf --> 2.307983).  Saving model ...
+epoch: 1, Train Loss: 2.2501, Train Acc: 0.1797, Test Loss: 2.3082, Test Acc: 0.0993
+EarlyStopping counter: 1 out of 50
+epoch: 2, Train Loss: 2.2167, Train Acc: 0.2031, Test Loss: 2.3091, Test Acc: 0.0999
+EarlyStopping counter: 2 out of 50
+epoch: 3, Train Loss: 2.1571, Train Acc: 0.3203, Test Loss: 2.3118, Test Acc: 0.0993
+EarlyStopping counter: 3 out of 50
+epoch: 4, Train Loss: 2.1115, Train Acc: 0.3359, Test Loss: 2.3168, Test Acc: 0.1004
+EarlyStopping counter: 4 out of 50
+epoch: 5, Train Loss: 2.0364, Train Acc: 0.4141, Test Loss: 2.3258, Test Acc: 0.0993
+EarlyStopping counter: 5 out of 50
+epoch: 6, Train Loss: 2.0008, Train Acc: 0.4062, Test Loss: 2.3391, Test Acc: 0.1004
+EarlyStopping counter: 6 out of 50
+epoch: 7, Train Loss: 1.9600, Train Acc: 0.3828, Test Loss: 2.3572, Test Acc: 0.1004
+EarlyStopping counter: 7 out of 50
+epoch: 8, Train Loss: 1.9140, Train Acc: 0.4688, Test Loss: 2.3873, Test Acc: 0.0993
+EarlyStopping counter: 8 out of 50
+epoch: 9, Train Loss: 1.8491, Train Acc: 0.4766, Test Loss: 2.4217, Test Acc: 0.1004
+EarlyStopping counter: 9 out of 50
+epoch: 10, Train Loss: 1.7768, Train Acc: 0.4531, Test Loss: 2.4741, Test Acc: 0.0999
+EarlyStopping counter: 10 out of 50
+epoch: 11, Train Loss: 1.7583, Train Acc: 0.5078, Test Loss: 2.5434, Test Acc: 0.0999
+EarlyStopping counter: 11 out of 50
+epoch: 12, Train Loss: 1.6421, Train Acc: 0.5703, Test Loss: 2.6430, Test Acc: 0.0993
+EarlyStopping counter: 12 out of 50
+epoch: 13, Train Loss: 1.5725, Train Acc: 0.5625, Test Loss: 2.7675, Test Acc: 0.1004
+EarlyStopping counter: 13 out of 50
+epoch: 14, Train Loss: 1.4996, Train Acc: 0.5859, Test Loss: 2.9102, Test Acc: 0.0999
+EarlyStopping counter: 14 out of 50
+epoch: 15, Train Loss: 1.3759, Train Acc: 0.6484, Test Loss: 3.0884, Test Acc: 0.0993
+EarlyStopping counter: 15 out of 50
+epoch: 16, Train Loss: 1.3264, Train Acc: 0.6328, Test Loss: 3.2663, Test Acc: 0.1004
+EarlyStopping counter: 16 out of 50
+epoch: 17, Train Loss: 1.2040, Train Acc: 0.7422, Test Loss: 3.4908, Test Acc: 0.0993
+EarlyStopping counter: 17 out of 50
+epoch: 18, Train Loss: 1.1147, Train Acc: 0.7734, Test Loss: 3.7063, Test Acc: 0.0831
+EarlyStopping counter: 18 out of 50
+epoch: 19, Train Loss: 1.0240, Train Acc: 0.8047, Test Loss: 3.9160, Test Acc: 0.0725
+EarlyStopping counter: 19 out of 50
+epoch: 20, Train Loss: 0.9060, Train Acc: 0.9062, Test Loss: 4.1598, Test Acc: 0.0843
+EarlyStopping counter: 20 out of 50
+epoch: 21, Train Loss: 0.8102, Train Acc: 0.9219, Test Loss: 4.4429, Test Acc: 0.0865
+EarlyStopping counter: 21 out of 50
+epoch: 22, Train Loss: 0.7620, Train Acc: 0.9609, Test Loss: 4.6021, Test Acc: 0.0932
+EarlyStopping counter: 22 out of 50
+epoch: 23, Train Loss: 0.8063, Train Acc: 0.9062, Test Loss: 4.8134, Test Acc: 0.0982
+EarlyStopping counter: 23 out of 50
+epoch: 24, Train Loss: 0.6857, Train Acc: 0.9844, Test Loss: 4.9695, Test Acc: 0.0999
+EarlyStopping counter: 24 out of 50
+epoch: 25, Train Loss: 0.6494, Train Acc: 0.9844, Test Loss: 5.0622, Test Acc: 0.0977
+EarlyStopping counter: 25 out of 50
+epoch: 26, Train Loss: 0.6224, Train Acc: 0.9922, Test Loss: 5.1047, Test Acc: 0.0999
+EarlyStopping counter: 26 out of 50
+epoch: 27, Train Loss: 0.6131, Train Acc: 0.9922, Test Loss: 5.1254, Test Acc: 0.1032
+EarlyStopping counter: 27 out of 50
+epoch: 28, Train Loss: 0.6011, Train Acc: 1.0000, Test Loss: 5.1187, Test Acc: 0.1105
+EarlyStopping counter: 28 out of 50
+epoch: 29, Train Loss: 0.6092, Train Acc: 0.9922, Test Loss: 5.0186, Test Acc: 0.1189
+EarlyStopping counter: 29 out of 50
+epoch: 30, Train Loss: 0.5884, Train Acc: 1.0000, Test Loss: 4.8478, Test Acc: 0.1350
+EarlyStopping counter: 30 out of 50
+epoch: 31, Train Loss: 0.5839, Train Acc: 1.0000, Test Loss: 4.6407, Test Acc: 0.1456
+EarlyStopping counter: 31 out of 50
+epoch: 32, Train Loss: 0.5765, Train Acc: 1.0000, Test Loss: 4.3880, Test Acc: 0.1512
+EarlyStopping counter: 32 out of 50
+epoch: 33, Train Loss: 0.5719, Train Acc: 1.0000, Test Loss: 4.1606, Test Acc: 0.1546
+EarlyStopping counter: 33 out of 50
+epoch: 34, Train Loss: 0.5749, Train Acc: 1.0000, Test Loss: 3.9243, Test Acc: 0.1663
+EarlyStopping counter: 34 out of 50
+epoch: 35, Train Loss: 0.5686, Train Acc: 1.0000, Test Loss: 3.6960, Test Acc: 0.1730
+EarlyStopping counter: 35 out of 50
+epoch: 36, Train Loss: 0.5621, Train Acc: 1.0000, Test Loss: 3.4940, Test Acc: 0.1775
+EarlyStopping counter: 36 out of 50
+epoch: 37, Train Loss: 0.5597, Train Acc: 1.0000, Test Loss: 3.3035, Test Acc: 0.2015
+EarlyStopping counter: 37 out of 50
+epoch: 38, Train Loss: 0.5553, Train Acc: 1.0000, Test Loss: 3.1072, Test Acc: 0.2204
+EarlyStopping counter: 38 out of 50
+epoch: 39, Train Loss: 0.5568, Train Acc: 1.0000, Test Loss: 2.9335, Test Acc: 0.2506
+EarlyStopping counter: 39 out of 50
+epoch: 40, Train Loss: 0.5532, Train Acc: 1.0000, Test Loss: 2.7618, Test Acc: 0.2835
+EarlyStopping counter: 40 out of 50
+epoch: 41, Train Loss: 0.5440, Train Acc: 1.0000, Test Loss: 2.6378, Test Acc: 0.3064
+EarlyStopping counter: 41 out of 50
+epoch: 42, Train Loss: 0.5403, Train Acc: 1.0000, Test Loss: 2.4648, Test Acc: 0.3354
+EarlyStopping counter: 42 out of 50
+epoch: 43, Train Loss: 0.5402, Train Acc: 1.0000, Test Loss: 2.3271, Test Acc: 0.3538
+EarlyStopping counter: 43 out of 50
+epoch: 44, Train Loss: 0.5366, Train Acc: 1.0000, Test Loss: 2.1781, Test Acc: 0.3912
+Validation loss decreased (2.307983 --> 2.178064).  Saving model ...
+epoch: 45, Train Loss: 0.5339, Train Acc: 1.0000, Test Loss: 2.0482, Test Acc: 0.4224
+Validation loss decreased (2.178064 --> 2.048232).  Saving model ...
+epoch: 46, Train Loss: 0.5348, Train Acc: 1.0000, Test Loss: 1.9019, Test Acc: 0.4637
+Validation loss decreased (2.048232 --> 1.901928).  Saving model ...
+epoch: 47, Train Loss: 0.5302, Train Acc: 1.0000, Test Loss: 1.7999, Test Acc: 0.5056
+Validation loss decreased (1.901928 --> 1.799877).  Saving model ...
+epoch: 48, Train Loss: 0.5308, Train Acc: 1.0000, Test Loss: 1.6673, Test Acc: 0.5497
+Validation loss decreased (1.799877 --> 1.667282).  Saving model ...
+epoch: 49, Train Loss: 0.5296, Train Acc: 1.0000, Test Loss: 1.5737, Test Acc: 0.5815
+Validation loss decreased (1.667282 --> 1.573706).  Saving model ...
+epoch: 50, Train Loss: 0.5266, Train Acc: 1.0000, Test Loss: 1.4751, Test Acc: 0.6177
+Validation loss decreased (1.573706 --> 1.475069).  Saving model ...
+epoch: 51, Train Loss: 0.5269, Train Acc: 1.0000, Test Loss: 1.3604, Test Acc: 0.6535
+Validation loss decreased (1.475069 --> 1.360420).  Saving model ...
+epoch: 52, Train Loss: 0.5261, Train Acc: 1.0000, Test Loss: 1.2770, Test Acc: 0.6903
+Validation loss decreased (1.360420 --> 1.277005).  Saving model ...
+epoch: 53, Train Loss: 0.5239, Train Acc: 1.0000, Test Loss: 1.2213, Test Acc: 0.7199
+Validation loss decreased (1.277005 --> 1.221288).  Saving model ...
+epoch: 54, Train Loss: 0.5236, Train Acc: 1.0000, Test Loss: 1.1367, Test Acc: 0.7533
+Validation loss decreased (1.221288 --> 1.136654).  Saving model ...
+epoch: 55, Train Loss: 0.5221, Train Acc: 1.0000, Test Loss: 1.0768, Test Acc: 0.7801
+Validation loss decreased (1.136654 --> 1.076756).  Saving model ...
+epoch: 56, Train Loss: 0.5222, Train Acc: 1.0000, Test Loss: 1.0448, Test Acc: 0.7946
+Validation loss decreased (1.076756 --> 1.044804).  Saving model ...
+epoch: 57, Train Loss: 0.5216, Train Acc: 1.0000, Test Loss: 0.9925, Test Acc: 0.8142
+Validation loss decreased (1.044804 --> 0.992465).  Saving model ...
+epoch: 58, Train Loss: 0.5204, Train Acc: 1.0000, Test Loss: 0.9526, Test Acc: 0.8354
+Validation loss decreased (0.992465 --> 0.952554).  Saving model ...
+epoch: 59, Train Loss: 0.5181, Train Acc: 1.0000, Test Loss: 0.9149, Test Acc: 0.8510
+Validation loss decreased (0.952554 --> 0.914859).  Saving model ...
+epoch: 60, Train Loss: 0.5188, Train Acc: 1.0000, Test Loss: 0.8669, Test Acc: 0.8728
+Validation loss decreased (0.914859 --> 0.866942).  Saving model ...
+epoch: 61, Train Loss: 0.5182, Train Acc: 1.0000, Test Loss: 0.8354, Test Acc: 0.8845
+Validation loss decreased (0.866942 --> 0.835397).  Saving model ...
+epoch: 62, Train Loss: 0.5178, Train Acc: 1.0000, Test Loss: 0.8004, Test Acc: 0.9012
+Validation loss decreased (0.835397 --> 0.800397).  Saving model ...
+epoch: 63, Train Loss: 0.5173, Train Acc: 1.0000, Test Loss: 0.7787, Test Acc: 0.9141
+Validation loss decreased (0.800397 --> 0.778741).  Saving model ...
+epoch: 64, Train Loss: 0.5151, Train Acc: 1.0000, Test Loss: 0.7724, Test Acc: 0.9157
+Validation loss decreased (0.778741 --> 0.772394).  Saving model ...
+epoch: 65, Train Loss: 0.5183, Train Acc: 1.0000, Test Loss: 0.7772, Test Acc: 0.9146
+EarlyStopping counter: 1 out of 50
+epoch: 66, Train Loss: 0.5157, Train Acc: 1.0000, Test Loss: 0.7822, Test Acc: 0.9174
+EarlyStopping counter: 2 out of 50
+epoch: 67, Train Loss: 0.5147, Train Acc: 1.0000, Test Loss: 0.7717, Test Acc: 0.9208
+Validation loss decreased (0.772394 --> 0.771680).  Saving model ...
+epoch: 68, Train Loss: 0.5154, Train Acc: 1.0000, Test Loss: 0.7564, Test Acc: 0.9247
+Validation loss decreased (0.771680 --> 0.756444).  Saving model ...
+epoch: 69, Train Loss: 0.5166, Train Acc: 1.0000, Test Loss: 0.7418, Test Acc: 0.9319
+Validation loss decreased (0.756444 --> 0.741787).  Saving model ...
+epoch: 70, Train Loss: 0.5150, Train Acc: 1.0000, Test Loss: 0.7391, Test Acc: 0.9347
+Validation loss decreased (0.741787 --> 0.739082).  Saving model ...
+epoch: 71, Train Loss: 0.5150, Train Acc: 1.0000, Test Loss: 0.7582, Test Acc: 0.9275
+EarlyStopping counter: 1 out of 50
+epoch: 72, Train Loss: 0.5155, Train Acc: 1.0000, Test Loss: 0.9119, Test Acc: 0.8783
+EarlyStopping counter: 2 out of 50
+epoch: 73, Train Loss: 0.5126, Train Acc: 1.0000, Test Loss: 1.0195, Test Acc: 0.8583
+EarlyStopping counter: 3 out of 50
+epoch: 74, Train Loss: 0.5129, Train Acc: 1.0000, Test Loss: 1.0466, Test Acc: 0.8532
+EarlyStopping counter: 4 out of 50
+epoch: 75, Train Loss: 0.5123, Train Acc: 1.0000, Test Loss: 1.0588, Test Acc: 0.8504
+EarlyStopping counter: 5 out of 50
+epoch: 76, Train Loss: 0.5123, Train Acc: 1.0000, Test Loss: 1.0550, Test Acc: 0.8471
+EarlyStopping counter: 6 out of 50
+epoch: 77, Train Loss: 0.5139, Train Acc: 1.0000, Test Loss: 1.0265, Test Acc: 0.8532
+EarlyStopping counter: 7 out of 50
+epoch: 78, Train Loss: 0.5120, Train Acc: 1.0000, Test Loss: 1.0171, Test Acc: 0.8571
+EarlyStopping counter: 8 out of 50
+epoch: 79, Train Loss: 0.5115, Train Acc: 1.0000, Test Loss: 1.0036, Test Acc: 0.8577
+EarlyStopping counter: 9 out of 50
+epoch: 80, Train Loss: 0.5121, Train Acc: 1.0000, Test Loss: 0.9828, Test Acc: 0.8644
+EarlyStopping counter: 10 out of 50
+epoch: 81, Train Loss: 0.5115, Train Acc: 1.0000, Test Loss: 0.9795, Test Acc: 0.8638
+EarlyStopping counter: 11 out of 50
+epoch: 82, Train Loss: 0.5094, Train Acc: 1.0000, Test Loss: 0.9684, Test Acc: 0.8689
+EarlyStopping counter: 12 out of 50
+epoch: 83, Train Loss: 0.5101, Train Acc: 1.0000, Test Loss: 0.9278, Test Acc: 0.8733
+EarlyStopping counter: 13 out of 50
+epoch: 84, Train Loss: 0.5111, Train Acc: 1.0000, Test Loss: 0.9028, Test Acc: 0.8806
+EarlyStopping counter: 14 out of 50
+epoch: 85, Train Loss: 0.5107, Train Acc: 1.0000, Test Loss: 0.8763, Test Acc: 0.8856
+EarlyStopping counter: 15 out of 50
+epoch: 86, Train Loss: 0.5100, Train Acc: 1.0000, Test Loss: 0.8611, Test Acc: 0.8929
+EarlyStopping counter: 16 out of 50
+epoch: 87, Train Loss: 0.5090, Train Acc: 1.0000, Test Loss: 0.8474, Test Acc: 0.8996
+EarlyStopping counter: 17 out of 50
+epoch: 88, Train Loss: 0.5098, Train Acc: 1.0000, Test Loss: 0.8429, Test Acc: 0.8996
+EarlyStopping counter: 18 out of 50
+epoch: 89, Train Loss: 0.5091, Train Acc: 1.0000, Test Loss: 0.8344, Test Acc: 0.9046
+EarlyStopping counter: 19 out of 50
+epoch: 90, Train Loss: 0.5092, Train Acc: 1.0000, Test Loss: 0.8124, Test Acc: 0.9146
+EarlyStopping counter: 20 out of 50
+epoch: 91, Train Loss: 0.5092, Train Acc: 1.0000, Test Loss: 0.7999, Test Acc: 0.9163
+EarlyStopping counter: 21 out of 50
+epoch: 92, Train Loss: 0.5082, Train Acc: 1.0000, Test Loss: 0.7899, Test Acc: 0.9202
+EarlyStopping counter: 22 out of 50
+epoch: 93, Train Loss: 0.5085, Train Acc: 1.0000, Test Loss: 0.7635, Test Acc: 0.9269
+EarlyStopping counter: 23 out of 50
+epoch: 94, Train Loss: 0.5080, Train Acc: 1.0000, Test Loss: 0.7554, Test Acc: 0.9286
+EarlyStopping counter: 24 out of 50
+epoch: 95, Train Loss: 0.5095, Train Acc: 1.0000, Test Loss: 0.7427, Test Acc: 0.9330
+EarlyStopping counter: 25 out of 50
+epoch: 96, Train Loss: 0.5080, Train Acc: 1.0000, Test Loss: 0.7362, Test Acc: 0.9330
+Validation loss decreased (0.739082 --> 0.736217).  Saving model ...
+epoch: 97, Train Loss: 0.5081, Train Acc: 1.0000, Test Loss: 0.7195, Test Acc: 0.9414
+Validation loss decreased (0.736217 --> 0.719467).  Saving model ...
+epoch: 98, Train Loss: 0.5074, Train Acc: 1.0000, Test Loss: 0.7141, Test Acc: 0.9425
+Validation loss decreased (0.719467 --> 0.714075).  Saving model ...
+epoch: 99, Train Loss: 0.5075, Train Acc: 1.0000, Test Loss: 0.7119, Test Acc: 0.9414
+Validation loss decreased (0.714075 --> 0.711874).  Saving model ...
+epoch: 100, Train Loss: 0.5069, Train Acc: 1.0000, Test Loss: 0.7083, Test Acc: 0.9448
+Validation loss decreased (0.711874 --> 0.708276).  Saving model ...
+epoch: 101, Train Loss: 0.5075, Train Acc: 1.0000, Test Loss: 0.7059, Test Acc: 0.9425
+Validation loss decreased (0.708276 --> 0.705921).  Saving model ...
+epoch: 102, Train Loss: 0.5067, Train Acc: 1.0000, Test Loss: 0.7091, Test Acc: 0.9403
+EarlyStopping counter: 1 out of 50
+epoch: 103, Train Loss: 0.5065, Train Acc: 1.0000, Test Loss: 0.7180, Test Acc: 0.9386
+EarlyStopping counter: 2 out of 50
+epoch: 104, Train Loss: 0.5077, Train Acc: 1.0000, Test Loss: 0.7434, Test Acc: 0.9263
+EarlyStopping counter: 3 out of 50
+epoch: 105, Train Loss: 0.5094, Train Acc: 1.0000, Test Loss: 0.7434, Test Acc: 0.9213
+EarlyStopping counter: 4 out of 50
+epoch: 106, Train Loss: 0.5091, Train Acc: 1.0000, Test Loss: 0.7435, Test Acc: 0.9230
+EarlyStopping counter: 5 out of 50
+epoch: 107, Train Loss: 0.5084, Train Acc: 1.0000, Test Loss: 0.7454, Test Acc: 0.9247
+EarlyStopping counter: 6 out of 50
+epoch: 108, Train Loss: 0.5078, Train Acc: 1.0000, Test Loss: 0.7442, Test Acc: 0.9258
+EarlyStopping counter: 7 out of 50
+epoch: 109, Train Loss: 0.5076, Train Acc: 1.0000, Test Loss: 0.7714, Test Acc: 0.9202
+EarlyStopping counter: 8 out of 50
+epoch: 110, Train Loss: 0.5072, Train Acc: 1.0000, Test Loss: 0.7790, Test Acc: 0.9169
+EarlyStopping counter: 9 out of 50
+epoch: 111, Train Loss: 0.5070, Train Acc: 1.0000, Test Loss: 0.7695, Test Acc: 0.9208
+EarlyStopping counter: 10 out of 50
+epoch: 112, Train Loss: 0.5069, Train Acc: 1.0000, Test Loss: 0.7739, Test Acc: 0.9191
+EarlyStopping counter: 11 out of 50
+epoch: 113, Train Loss: 0.5068, Train Acc: 1.0000, Test Loss: 0.7668, Test Acc: 0.9224
+EarlyStopping counter: 12 out of 50
+epoch: 114, Train Loss: 0.5067, Train Acc: 1.0000, Test Loss: 0.7433, Test Acc: 0.9302
+EarlyStopping counter: 13 out of 50
+epoch: 115, Train Loss: 0.5070, Train Acc: 1.0000, Test Loss: 0.7249, Test Acc: 0.9347
+EarlyStopping counter: 14 out of 50
+epoch: 116, Train Loss: 0.5067, Train Acc: 1.0000, Test Loss: 0.7109, Test Acc: 0.9397
+EarlyStopping counter: 15 out of 50
+epoch: 117, Train Loss: 0.5065, Train Acc: 1.0000, Test Loss: 0.7072, Test Acc: 0.9397
+EarlyStopping counter: 16 out of 50
+epoch: 118, Train Loss: 0.5071, Train Acc: 1.0000, Test Loss: 0.7064, Test Acc: 0.9386
+EarlyStopping counter: 17 out of 50
+epoch: 119, Train Loss: 0.5062, Train Acc: 1.0000, Test Loss: 0.7026, Test Acc: 0.9408
+Validation loss decreased (0.705921 --> 0.702574).  Saving model ...
+epoch: 120, Train Loss: 0.5057, Train Acc: 1.0000, Test Loss: 0.7027, Test Acc: 0.9420
+EarlyStopping counter: 1 out of 50
+epoch: 121, Train Loss: 0.5069, Train Acc: 1.0000, Test Loss: 0.6928, Test Acc: 0.9442
+Validation loss decreased (0.702574 --> 0.692824).  Saving model ...
+epoch: 122, Train Loss: 0.5059, Train Acc: 1.0000, Test Loss: 0.6922, Test Acc: 0.9453
+Validation loss decreased (0.692824 --> 0.692153).  Saving model ...
+epoch: 123, Train Loss: 0.5055, Train Acc: 1.0000, Test Loss: 0.6942, Test Acc: 0.9448
+EarlyStopping counter: 1 out of 50
+epoch: 124, Train Loss: 0.5056, Train Acc: 1.0000, Test Loss: 0.6899, Test Acc: 0.9436
+Validation loss decreased (0.692153 --> 0.689886).  Saving model ...
+epoch: 125, Train Loss: 0.5051, Train Acc: 1.0000, Test Loss: 0.6870, Test Acc: 0.9453
+Validation loss decreased (0.689886 --> 0.687041).  Saving model ...
+epoch: 126, Train Loss: 0.5050, Train Acc: 1.0000, Test Loss: 0.6865, Test Acc: 0.9431
+Validation loss decreased (0.687041 --> 0.686487).  Saving model ...
+epoch: 127, Train Loss: 0.5050, Train Acc: 1.0000, Test Loss: 0.6871, Test Acc: 0.9459
+EarlyStopping counter: 1 out of 50
+epoch: 128, Train Loss: 0.5051, Train Acc: 1.0000, Test Loss: 0.6862, Test Acc: 0.9453
+Validation loss decreased (0.686487 --> 0.686195).  Saving model ...
+epoch: 129, Train Loss: 0.5063, Train Acc: 1.0000, Test Loss: 0.6816, Test Acc: 0.9498
+Validation loss decreased (0.686195 --> 0.681637).  Saving model ...
+epoch: 130, Train Loss: 0.5053, Train Acc: 1.0000, Test Loss: 0.6836, Test Acc: 0.9475
+EarlyStopping counter: 1 out of 50
+epoch: 131, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6868, Test Acc: 0.9481
+EarlyStopping counter: 2 out of 50
+epoch: 132, Train Loss: 0.5044, Train Acc: 1.0000, Test Loss: 0.6858, Test Acc: 0.9487
+EarlyStopping counter: 3 out of 50
+epoch: 133, Train Loss: 0.5051, Train Acc: 1.0000, Test Loss: 0.6807, Test Acc: 0.9509
+Validation loss decreased (0.681637 --> 0.680703).  Saving model ...
+epoch: 134, Train Loss: 0.5060, Train Acc: 1.0000, Test Loss: 0.6771, Test Acc: 0.9526
+Validation loss decreased (0.680703 --> 0.677084).  Saving model ...
+epoch: 135, Train Loss: 0.5046, Train Acc: 1.0000, Test Loss: 0.6790, Test Acc: 0.9509
+EarlyStopping counter: 1 out of 50
+epoch: 136, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6777, Test Acc: 0.9520
+EarlyStopping counter: 2 out of 50
+epoch: 137, Train Loss: 0.5047, Train Acc: 1.0000, Test Loss: 0.6799, Test Acc: 0.9503
+EarlyStopping counter: 3 out of 50
+epoch: 138, Train Loss: 0.5046, Train Acc: 1.0000, Test Loss: 0.6814, Test Acc: 0.9509
+EarlyStopping counter: 4 out of 50
+epoch: 139, Train Loss: 0.5039, Train Acc: 1.0000, Test Loss: 0.6832, Test Acc: 0.9487
+EarlyStopping counter: 5 out of 50
+epoch: 140, Train Loss: 0.5043, Train Acc: 1.0000, Test Loss: 0.6830, Test Acc: 0.9492
+EarlyStopping counter: 6 out of 50
+epoch: 141, Train Loss: 0.5048, Train Acc: 1.0000, Test Loss: 0.6781, Test Acc: 0.9498
+EarlyStopping counter: 7 out of 50
+epoch: 142, Train Loss: 0.5048, Train Acc: 1.0000, Test Loss: 0.6773, Test Acc: 0.9520
+EarlyStopping counter: 8 out of 50
+epoch: 143, Train Loss: 0.5046, Train Acc: 1.0000, Test Loss: 0.6783, Test Acc: 0.9509
+EarlyStopping counter: 9 out of 50
+epoch: 144, Train Loss: 0.5043, Train Acc: 1.0000, Test Loss: 0.6742, Test Acc: 0.9526
+Validation loss decreased (0.677084 --> 0.674168).  Saving model ...
+epoch: 145, Train Loss: 0.5049, Train Acc: 1.0000, Test Loss: 0.6722, Test Acc: 0.9515
+Validation loss decreased (0.674168 --> 0.672234).  Saving model ...
+epoch: 146, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6774, Test Acc: 0.9503
+EarlyStopping counter: 1 out of 50
+epoch: 147, Train Loss: 0.5043, Train Acc: 1.0000, Test Loss: 0.6765, Test Acc: 0.9515
+EarlyStopping counter: 2 out of 50
+epoch: 148, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6788, Test Acc: 0.9520
+EarlyStopping counter: 3 out of 50
+epoch: 149, Train Loss: 0.5042, Train Acc: 1.0000, Test Loss: 0.6792, Test Acc: 0.9509
+EarlyStopping counter: 4 out of 50
+epoch: 150, Train Loss: 0.5036, Train Acc: 1.0000, Test Loss: 0.6808, Test Acc: 0.9492
+EarlyStopping counter: 5 out of 50
+epoch: 151, Train Loss: 0.5037, Train Acc: 1.0000, Test Loss: 0.6821, Test Acc: 0.9492
+EarlyStopping counter: 6 out of 50
+epoch: 152, Train Loss: 0.5043, Train Acc: 1.0000, Test Loss: 0.6782, Test Acc: 0.9520
+EarlyStopping counter: 7 out of 50
+epoch: 153, Train Loss: 0.5038, Train Acc: 1.0000, Test Loss: 0.6800, Test Acc: 0.9503
+EarlyStopping counter: 8 out of 50
+epoch: 154, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6819, Test Acc: 0.9498
+EarlyStopping counter: 9 out of 50
+epoch: 155, Train Loss: 0.5037, Train Acc: 1.0000, Test Loss: 0.6779, Test Acc: 0.9509
+EarlyStopping counter: 10 out of 50
+epoch: 156, Train Loss: 0.5038, Train Acc: 1.0000, Test Loss: 0.6814, Test Acc: 0.9475
+EarlyStopping counter: 11 out of 50
+epoch: 157, Train Loss: 0.5044, Train Acc: 1.0000, Test Loss: 0.6822, Test Acc: 0.9498
+EarlyStopping counter: 12 out of 50
+epoch: 158, Train Loss: 0.5039, Train Acc: 1.0000, Test Loss: 0.6810, Test Acc: 0.9498
+EarlyStopping counter: 13 out of 50
+epoch: 159, Train Loss: 0.5040, Train Acc: 1.0000, Test Loss: 0.6842, Test Acc: 0.9475
+EarlyStopping counter: 14 out of 50
+epoch: 160, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6814, Test Acc: 0.9481
+EarlyStopping counter: 15 out of 50
+epoch: 161, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6826, Test Acc: 0.9481
+EarlyStopping counter: 16 out of 50
+epoch: 162, Train Loss: 0.5039, Train Acc: 1.0000, Test Loss: 0.6845, Test Acc: 0.9475
+EarlyStopping counter: 17 out of 50
+epoch: 163, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6898, Test Acc: 0.9475
+EarlyStopping counter: 18 out of 50
+epoch: 164, Train Loss: 0.5031, Train Acc: 1.0000, Test Loss: 0.6857, Test Acc: 0.9481
+EarlyStopping counter: 19 out of 50
+epoch: 165, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6880, Test Acc: 0.9459
+EarlyStopping counter: 20 out of 50
+epoch: 166, Train Loss: 0.5036, Train Acc: 1.0000, Test Loss: 0.6882, Test Acc: 0.9475
+EarlyStopping counter: 21 out of 50
+epoch: 167, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6912, Test Acc: 0.9464
+EarlyStopping counter: 22 out of 50
+epoch: 168, Train Loss: 0.5031, Train Acc: 1.0000, Test Loss: 0.6882, Test Acc: 0.9475
+EarlyStopping counter: 23 out of 50
+epoch: 169, Train Loss: 0.5043, Train Acc: 1.0000, Test Loss: 0.6764, Test Acc: 0.9526
+EarlyStopping counter: 24 out of 50
+epoch: 170, Train Loss: 0.5033, Train Acc: 1.0000, Test Loss: 0.6816, Test Acc: 0.9464
+EarlyStopping counter: 25 out of 50
+epoch: 171, Train Loss: 0.5030, Train Acc: 1.0000, Test Loss: 0.6864, Test Acc: 0.9453
+EarlyStopping counter: 26 out of 50
+epoch: 172, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6927, Test Acc: 0.9475
+EarlyStopping counter: 27 out of 50
+epoch: 173, Train Loss: 0.5033, Train Acc: 1.0000, Test Loss: 0.6920, Test Acc: 0.9453
+EarlyStopping counter: 28 out of 50
+epoch: 174, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6870, Test Acc: 0.9470
+EarlyStopping counter: 29 out of 50
+epoch: 175, Train Loss: 0.5032, Train Acc: 1.0000, Test Loss: 0.6886, Test Acc: 0.9470
+EarlyStopping counter: 30 out of 50
+epoch: 176, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6886, Test Acc: 0.9453
+EarlyStopping counter: 31 out of 50
+epoch: 177, Train Loss: 0.5030, Train Acc: 1.0000, Test Loss: 0.6906, Test Acc: 0.9436
+EarlyStopping counter: 32 out of 50
+epoch: 178, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6875, Test Acc: 0.9464
+EarlyStopping counter: 33 out of 50
+epoch: 179, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6852, Test Acc: 0.9459
+EarlyStopping counter: 34 out of 50
+epoch: 180, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6821, Test Acc: 0.9498
+EarlyStopping counter: 35 out of 50
+epoch: 181, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6789, Test Acc: 0.9470
+EarlyStopping counter: 36 out of 50
+epoch: 182, Train Loss: 0.5032, Train Acc: 1.0000, Test Loss: 0.6748, Test Acc: 0.9509
+EarlyStopping counter: 37 out of 50
+epoch: 183, Train Loss: 0.5030, Train Acc: 1.0000, Test Loss: 0.6744, Test Acc: 0.9503
+EarlyStopping counter: 38 out of 50
+epoch: 184, Train Loss: 0.5041, Train Acc: 1.0000, Test Loss: 0.6748, Test Acc: 0.9520
+EarlyStopping counter: 39 out of 50
+epoch: 185, Train Loss: 0.5033, Train Acc: 1.0000, Test Loss: 0.6776, Test Acc: 0.9515
+EarlyStopping counter: 40 out of 50
+epoch: 186, Train Loss: 0.5033, Train Acc: 1.0000, Test Loss: 0.6756, Test Acc: 0.9531
+EarlyStopping counter: 41 out of 50
+epoch: 187, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6775, Test Acc: 0.9464
+EarlyStopping counter: 42 out of 50
+epoch: 188, Train Loss: 0.5036, Train Acc: 1.0000, Test Loss: 0.6869, Test Acc: 0.9442
+EarlyStopping counter: 43 out of 50
+epoch: 189, Train Loss: 0.5034, Train Acc: 1.0000, Test Loss: 0.6890, Test Acc: 0.9448
+EarlyStopping counter: 44 out of 50
+epoch: 190, Train Loss: 0.5028, Train Acc: 1.0000, Test Loss: 0.6945, Test Acc: 0.9425
+EarlyStopping counter: 45 out of 50
+epoch: 191, Train Loss: 0.5035, Train Acc: 1.0000, Test Loss: 0.6966, Test Acc: 0.9442
+EarlyStopping counter: 46 out of 50
+epoch: 192, Train Loss: 0.5032, Train Acc: 1.0000, Test Loss: 0.6922, Test Acc: 0.9453
+EarlyStopping counter: 47 out of 50
+epoch: 193, Train Loss: 0.5045, Train Acc: 1.0000, Test Loss: 0.6829, Test Acc: 0.9492
+EarlyStopping counter: 48 out of 50
+epoch: 194, Train Loss: 0.5027, Train Acc: 1.0000, Test Loss: 0.6818, Test Acc: 0.9475
+EarlyStopping counter: 49 out of 50
+epoch: 195, Train Loss: 0.5033, Train Acc: 1.0000, Test Loss: 0.6843, Test Acc: 0.9448
+EarlyStopping counter: 50 out of 50
+Early stopping
+程序运行时间：365.5325 s
